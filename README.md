@@ -1,0 +1,2 @@
+# profile
+ini profil saya
